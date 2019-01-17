@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "495605ed-dad0-448a-aebf-2cc215390b6d",
+            "Value": {
+                "id": "4657ab28-caf6-49dc-8f7f-f1c29e731b81",
+                "resourcePath": "shaders\\shader1\\shader1.yy",
+                "resourceType": "GMShader"
+            }
+        },
+        {
             "Key": "4c4bdf78-0f53-47cd-9347-b898f447aea3",
             "Value": {
                 "id": "4b96d771-dffa-40d1-bc7c-a38373cd6639",
@@ -164,6 +172,14 @@
                 "id": "3ebbef13-5fa6-4dd7-9205-e3c64f18f3c8",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "ed33205a-41ca-4e26-b1ef-19affda03506",
+            "Value": {
+                "id": "da52572b-7000-4cdd-8c6e-051b4f73864e",
+                "resourcePath": "shaders\\shader0\\shader0.yy",
+                "resourceType": "GMShader"
             }
         },
         {
